@@ -1,0 +1,31 @@
+_repo: In-the-Ranks-of-the-C.I.V._13235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Childers, Erskine
+    alias: Childers, Robert Erskine
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '875'
+    url: http://www.gutenberg.org/2009/agents/875
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Erskine_Childers
+description: ''
+gutenberg_issued: '2004-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Childers, Erskine, 1870-1922 -- Diaries'
+- !lcsh 'Great Britain. Army. Honourable Artillery Company'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives, British'
+- !lcsh 'South African War, 1899-1902 -- Campaigns'
+- !lcc 'DT'
+title: In the Ranks of the C.I.V.
+url: http://www.gutenberg.org/ebooks/13235
