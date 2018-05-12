@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/875
     wikipedia: http://en.wikipedia.org/wiki/Robert_Erskine_Childers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13235#In-the-Ranks-of-the-C.I.V.
 gutenberg_issued: '2004-08-20'
 gutenberg_type: Text
 identifiers:
